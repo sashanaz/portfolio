@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Sasha Nazareth&#39;s CV</title>
+    <link>https://sashanaz.github.io/portfolio/</link>
+    <description>Recent content in About Me on Sasha Nazareth&#39;s CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jun 2022 21:38:10 +1000</lastBuildDate><atom:link href="https://sashanaz.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://sashanaz.github.io/portfolio/posts/intro/</link>
+      <pubDate>Mon, 20 Jun 2022 19:14:48 +1000</pubDate>
+      
+      <guid>https://sashanaz.github.io/portfolio/posts/intro/</guid>
+      <description>Personal information about me: Name: Sasha Nazareth
+Email: sashanazareth11@gmail.com
+Contact Number: 0452581217
+Location: Melbourne, VIC</description>
+    </item>
+    
+    <item>
+      <title>Work Experience</title>
+      <link>https://sashanaz.github.io/portfolio/posts/my-experience/</link>
+      <pubDate>Mon, 20 Jun 2022 19:10:34 +1000</pubDate>
+      
+      <guid>https://sashanaz.github.io/portfolio/posts/my-experience/</guid>
+      <description>Okkular Role: Data Scientist Intern
+Location: - Melbourne, Australia
+Duration: November 2022 - April 2023
+Responsibilities:
+ Collecting data and performing analysis on the quality and meaning of data. Creating a dashboard for the company with all the data they have collected and making the data meaningful and easy to understand. Key takeaways from this internship- stronger data visualization and machine learning skills in fashion AI.  Woolworths Role: Front end team member</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://sashanaz.github.io/portfolio/posts/my-skills/</link>
+      <pubDate>Mon, 20 Jun 2022 19:10:24 +1000</pubDate>
+      
+      <guid>https://sashanaz.github.io/portfolio/posts/my-skills/</guid>
+      <description> Leadership Strong Work Ethic Learning agility Python and SQL Critical Thinking Time Management Problem Solving MS Office  </description>
+    </item>
+    
+    <item>
+      <title>Certifications and Social Work</title>
+      <link>https://sashanaz.github.io/portfolio/posts/my-projects/</link>
+      <pubDate>Mon, 20 Jun 2022 18:31:58 +1000</pubDate>
+      
+      <guid>https://sashanaz.github.io/portfolio/posts/my-projects/</guid>
+      <description>Completed courses on Coursera (100%) – 1. Effective Problem Solving and Decision Making, 2. The Art of Negotiation,3. Market Research and Consumer Behaviour,4. Managing Projects and Risk Change,5. Initiating and planning projects,6. High impact Business writing ,7. What is Data Science? Course in Social Involvement Programme in the year 2017-18 offered at St. Xavier’s College (Social work in an NGO named as &amp;lsquo;Seva Sahayog&amp;rsquo; for a year) Participated in SHHH NO HONKING- Honk Free Mumbai in 2018.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://sashanaz.github.io/portfolio/posts/my-education/</link>
+      <pubDate>Mon, 20 Jun 2022 18:31:25 +1000</pubDate>
+      
+      <guid>https://sashanaz.github.io/portfolio/posts/my-education/</guid>
+      <description>RMIT University Program: MASTER OF DATA SCIENCE
+Location: Melbourne, VIC, Australia
+Duration: 28th Feb 2022 – Present
+St. Xavier’s College Program: BACHELOR OF ARTS (MAJORED IN ECONOMICS)
+Location: MUMBAI, IN
+CGPA: 9.53/10
+St. Xavier’s College Program: HIGH SCHOOL EDUCATION(12th standard)
+Location: MUMBAI, IN
+Percentage: 86%
+Gokuldham High School Program: 10th standard(ICSE)
+Location: MUMBAI, IN
+Percentage: 87.33%</description>
+    </item>
+    
+  </channel>
+</rss>
