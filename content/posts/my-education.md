@@ -10,6 +10,8 @@ Location: Melbourne, VIC, Australia
 
 Duration: 28th Feb 2022 – Present
 
+GPA: 3.6/4.0
+
 
 ## St. Xavier’s College
 Program: BACHELOR OF ARTS (MAJORED IN ECONOMICS)
