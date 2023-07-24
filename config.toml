@@ -1,11 +1,11 @@
-baseURL = 'https://navroopsinghsandhu.github.io/myportfolio/'
+baseURL = 'https://sashanaz.github.io/portfolio/'
 languageCode = 'en-us'
 title = "Sasha Nazareth's CV"
 theme = 'm10c'
 
 
 [params]
-  author = "Navroop Singh"
+  author = "Sasha Nazareth"
   description = "Exploring this amazing world of Data Science"
   [[params.social]]
     icon = "github"
