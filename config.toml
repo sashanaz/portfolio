@@ -1,0 +1,17 @@
+baseURL = 'https://navroopsinghsandhu.github.io/myportfolio/'
+languageCode = 'en-us'
+title = "Sasha Nazareth's CV"
+theme = 'm10c'
+
+
+[params]
+  author = "Navroop Singh"
+  description = "Exploring this amazing world of Data Science"
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    url = "https://github.com/sashanaz"
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    url = "https://www.linkedin.com/in/sasha-nazareth-7454301b1/"
